@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xon-8ks.pages.dev/sitemap.xml
